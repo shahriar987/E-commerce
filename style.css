@@ -1,0 +1,51 @@
+.navbar{
+    width: 100%;
+}
+.blackbtn{
+    border: none;
+    background-color: black;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.blackbtn img{
+    width: 1px;
+}
+.blackbtn i{
+    color: #fff;
+}
+.header img{
+    width: 100%;
+}
+.header{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-size: 10%;
+    background-position: left bottom;
+}
+.smartphone .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.Laptop{
+margin-top: 30px;
+}
+.Laptop .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.categories{
+    margin-top: 30px;
+}
+.categories .image img{
+width: 100%;
+}
+.categories .hand  img{
+    width: 100%;
+    }
+.categories .img{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
